@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Tiffany 👋
 
-<!--
-**tiffanytang789/tiffanytang789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a UC Berkeley M.E.T. student studying Electrical Engineering & Computer Science and Business Administration.
 
-Here are some ideas to get you started:
+I'm interested in building AI products at the intersection of engineering, product, and customers. My recent work has focused on LLM applications, agentic workflows, enterprise data systems, and production ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- AI Agents & LLM Applications
+- Product Engineering
+- Machine Learning
+- Enterprise AI
+
+[LinkedIn](https://www.linkedin.com/in/tiffanydang88/)
